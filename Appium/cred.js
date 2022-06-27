@@ -1,6 +1,6 @@
 export const siteCredentials = {
-  email: 'automation.evernote1@gmail.com',
-  password: 'Password123'
+  email: '123@xyz.com',
+  password: 'pwd'
 }
 
 export const timeout = 180000
