@@ -1,6 +1,6 @@
 import { expect } from 'chai'
 import LoginPage from '../pages/login.page'
-import { siteCredentials as credentials } from '../utils/utils'
+import { siteCredentials as credentials } from '..'
 
 describe('Login', () => {
   it('should login with the correct credentials', () => {
